@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=hyuk's%20GitHub%20Profile%20!&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20🙂&fontSize=60&animation=fadeIn&fontAlignY=38&desc=hyuk's%20GitHub%20Profile%20!&)
+
 
 <!--
 **hyukee0205/hyukee0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
