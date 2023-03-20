@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Welcome%20!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Hyuk's%20GitHub%20Profile%20🙂&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Hyuk's%20GitHub%20Profile%20🙂&)
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
@@ -29,6 +29,3 @@
 		</a>
 </div>
 <br>
-<br>
-
-
